@@ -1,0 +1,12 @@
+[Oo]bj
+[Bb]in
+[Dd]ebug
+[Bb]uild/
+*.[Cc]ache
+*test-nunit.xml
+*.suo
+*.user
+packages
+.idea
+node_modules/
+*.log
