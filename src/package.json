@@ -1,11 +1,11 @@
 {
-  "name": "printio_admin",
+  "name": "JustinBiber_funclub",
   "version": "1.00.0",
   "private": true,
   "author": {
-    "name": "breakout commerce"
+    "name": "JustinBiber_funclub"
   },
-  "homepage": "http://print.io",
+  "homepage": "http://www.justinbiebermusic.com/",
   "license": "",
   "devDependencies": {
     "async": "^0.9.0",
